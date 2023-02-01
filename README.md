@@ -1,2 +1,2 @@
-# httpbin_rest_api_test
-postman collection
+# httpbin-postman-tests
+Postman collection and tests
